@@ -1,0 +1,7 @@
+.popup__content_delete-card{
+    min-height: 180px;
+}
+
+.popup__content_delete-card .popup__form{
+    margin-top: 30px;
+}
